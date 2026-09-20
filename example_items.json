@@ -1,0 +1,49 @@
+[
+  {
+    "id": "item-1",
+    "source": "inbox",
+    "text": "Action required: please countersign the attached contract, it's urgent.",
+    "timestamp": "2026-09-20T07:45:00",
+    "due": "2026-09-20"
+  },
+  {
+    "id": "item-2",
+    "source": "task-list",
+    "text": "Follow up with the supplier about the delayed shipment.",
+    "timestamp": "2026-09-18T14:00:00",
+    "due": "2026-09-25"
+  },
+  {
+    "id": "item-3",
+    "source": "inbox",
+    "text": "Weekly newsletter: five productivity tips you'll never use.",
+    "timestamp": "2026-09-20T06:00:00"
+  },
+  {
+    "id": "item-4",
+    "source": "inbox",
+    "text": "Reminder: your subscription renews soon, no action needed.",
+    "timestamp": "2026-09-19T18:30:00",
+    "due": "2026-09-28"
+  },
+  {
+    "id": "item-5",
+    "source": "calendar",
+    "text": "Important: client call moved up, please confirm availability asap.",
+    "timestamp": "2026-09-20T08:10:00",
+    "due": "2026-09-21"
+  },
+  {
+    "id": "item-6",
+    "source": "inbox",
+    "text": "FYI, the office will be closed next Monday.",
+    "timestamp": "2026-09-17T09:00:00"
+  },
+  {
+    "id": "item-7",
+    "source": "task-list",
+    "text": "Overdue: submit the expense report.",
+    "timestamp": "2026-09-15T10:00:00",
+    "due": "2026-09-18"
+  }
+]
