@@ -1,0 +1,20 @@
+{
+  "keywords": {
+    "urgent": 8,
+    "asap": 6,
+    "important": 4,
+    "action required": 7,
+    "reminder": 2,
+    "fyi": -2,
+    "newsletter": -5,
+    "unsubscribe": -5
+  },
+  "deadline_weight": 3.0,
+  "deadline_horizon_days": 7,
+  "recency_half_life_hours": 24,
+  "recency_max_bonus": 4,
+  "bucket_thresholds": {
+    "urgent": 8,
+    "soon": 3
+  }
+}
